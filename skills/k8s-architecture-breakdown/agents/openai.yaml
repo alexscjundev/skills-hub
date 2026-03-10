@@ -1,0 +1,4 @@
+interface:
+  display_name: "K8s Architecture Breakdown"
+  short_description: "Map components, flows, and no-fluff architecture diagrams."
+  default_prompt: "Use $k8s-architecture-breakdown to write a no-fluff architecture markdown doc with CRD/controller responsibilities, failure/recovery flows, and a minimal diagram."

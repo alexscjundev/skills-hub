@@ -1,0 +1,6 @@
+apiVersion: playground.aljun.dev/v1alpha1
+kind: Echo
+metadata:
+  name: demo-echo
+spec:
+  message: "hello from sample"

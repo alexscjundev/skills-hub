@@ -1,0 +1,4 @@
+interface:
+  display_name: "Controller Breakdown"
+  short_description: "Summarize controller intent and key K8s fields."
+  default_prompt: "Use $controller-breakdown to explain what this controller's resource represents and which spec/status fields matter most."
